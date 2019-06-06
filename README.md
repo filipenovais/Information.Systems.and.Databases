@@ -1,11 +1,11 @@
 Information Systems and Databases (ISD)
 ====
 
-Repository for the Object Oriented Programming course.
+Repository for the Information Systems and Databases course.
 
 Project
 --------
 
-- Name: Math in Casinos: Video Poker
+- Name: Health Care Services Database
 - Year: 2016/2017
 - Description: 
