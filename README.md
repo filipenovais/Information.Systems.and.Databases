@@ -15,14 +15,17 @@ Project
 
 Using PHP and HTML, we develop a simple Web-based application to perform the following tasks:
 - Search for a patient
+
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/searchpatient1.jpg)
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/searchpatient2.jpg)
 
 - Schedule an appointment for an existing patient
+
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/appointp1.jpg)
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/appointp2.jpg)
 
 - Register patient and schedule an appointment
+
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/regpat1.jpg)
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/appointp3.jpg)
 
