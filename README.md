@@ -8,7 +8,7 @@ Project
 
 - Name: Health Care Services Database
 - Year: 2016/2017
-- Description: In this project a new relational database is created, to store medical information in a helth care center, that will organize all the data related to the encounters of patients with doctors in appointments and examinations.
+- Description: In this project a new relational database is created, to store medical information in a health care centre, that will organize all the data related to the encounters of patients with doctors in appointments and examinations.
 
 ![alt text](https://github.com/filipenovais/Information.Systems.and.Databases/blob/master/sqlexamples.png)
 
